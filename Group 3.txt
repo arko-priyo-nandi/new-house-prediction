@@ -1,0 +1,25 @@
+Group Members:
+
+2229030:Dhruv Kumar
+2229023:Ayam Singh
+2229017:Arko Priyo Nandi
+2229012:Ankesh Manna
+
+
+
+
+Title:-Smart House Price Prediction 
+
+
+Abstract
+In this project, a House Price Prediction System will be developed using Python and machine learning techniques to estimate property prices in a given city. The project will utilize a structured dataset containing features such as location, size, number of rooms, amenities, and other relevant factors that influence real estate prices.
+
+The system will undergo a data preprocessing phase, where missing values will be handled, categorical variables will be converted into numerical format using one-hot encoding, and feature selection techniques will be applied to retain the most relevant attributes. The dataset will then be split into training and testing sets to ensure effective model evaluation.
+
+For model selection, various regression algorithms will be implemented, including Linear Regression, Decision Trees, Random Forest, and Gradient Boosting Machines (GBM). The models will be trained using the scikit-learn library, and hyperparameter tuning will be performed using Grid Search and Random Search techniques to improve predictive accuracy.
+
+To measure the model's effectiveness, performance metrics such as Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared score will be utilized. Additionally, visualization tools like Matplotlib and Seaborn will be used to analyze the dataset and model predictions.
+
+Once a suitable model is identified, the system will be deployed using a Flask or Django web application, allowing users to input property details and receive price predictions in real time. The model will be continuously updated with new data to enhance its accuracy over time.
+
+This project aims to provide an efficient and user-friendly house price prediction system that can assist buyers, sellers, and real estate professionals in making informed decisions based on data-driven insights.
